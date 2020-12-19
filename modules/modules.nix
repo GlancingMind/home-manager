@@ -115,6 +115,7 @@ let
     (loadModule ./programs/rofi.nix { })
     (loadModule ./programs/rtorrent.nix { })
     (loadModule ./programs/skim.nix { })
+    (loadModule ./programs/surfraw.nix { })
     (loadModule ./programs/starship.nix { })
     (loadModule ./programs/ssh.nix { })
     (loadModule ./programs/taskwarrior.nix { })
